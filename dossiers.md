@@ -7,3 +7,5 @@
 5. Adoption et publication
 
 Aucun dossier réel n'est suivi ici : ce fichier décrit seulement les étapes.
+
+Une même étape peut durer plusieurs mois.
